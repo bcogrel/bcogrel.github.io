@@ -19,7 +19,7 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
-EMAIL_ADDRESS = "lastname AT inf.unibz.it"
+# EMAIL_ADDRESS = "lastname AT inf.unibz.it"
 GITHUB_ADDRESS = "https://github.com/bcogrel"
 TWITTER_ADDRESS = "https://twitter.com/bcogrel"
 PROFILE_IMAGE_URL = "/images/bcogrel.jpg"
