@@ -1,0 +1,33 @@
+About me
+========
+
+:date: 11-2016
+:save_as: index.html
+
+Postdoc at the `KRDB Research Centre for Knowledge and
+Data <http://www.inf.unibz.it/krdb/>`_, Faculty of Computer Science, `Free University of Bozen-Bolzano <http://unibz.it>`_, Italy.
+
+My research focuses on Ontology-Based Data Access (OBDA) and related topics
+such as query optimization and integration of non-relational data sources. 
+I am part of team that develops the OBDA system Ontop_. 
+
+Recent publications
+-------------------
+ * `Ontop: Answering SPARQL Queries over Relational Databases <http://www.semantic-web-journal.net/content/ontop-answering-sparql-queries-over-relational-databases-1>`_. Diego Calvanese, Benjamin Cogrel, Sarah Komla-Ebri, Roman Kontchakov, Davide Lanti, Martin Rezk, Mariano Rodriguez-Muro, and Guohui Xiao. Semantic Web Journal, 2016. (SWJ 2016 Outstanding Paper Award)
+ * `OBDA Beyond Relational DBs: A Study for MongoDB <http://ceur-ws.org/Vol-1577/paper_40.pdf>`_. Elena Botoeva, Diego Calvanese, Benjamin Cogrel, Martin Rezk, Guohui Xiao. Description Logics, 2016.
+ * `A Formal Presentation of MongoDB (Extended Version) <https://arxiv.org/pdf/1603.09291>`_. Elena Botoeva, Diego Calvanese, Benjamin Cogrel, Martin Rezk, Guohui Xiao. CoRR abs/1603.09291, 2016. 
+
+`DBLP <http://dblp.uni-trier.de/pers/hd/c/Cogrel:Benjamin>`_
+
+
+Recent talks
+------------
+  * `Ontology-Based Data Access with Ontop <http://esslli2016.unibz.it/wp-content/uploads/2015/10/ontop-esslli.pdf>`_. Last lecture of the course 
+    `Query Answering with Description Logic Ontologies <http://esslli2016.unibz.it/?page_id=395>`_, ESSLLI summer school, August 26, 2016. Bolzano, Italy.
+  * Introduction to the Ontop framework. `Geospatial, Mathematical and Linked Big Data Workshop <http://iqmulus.eu/events/workshop-geospatial-mathematical-and-linked-big-data>`_, European Data Forum, June 28, 2016. Eindhoven, The Netherlands.
+  * `OBDA with Ontop <http://raw.githubusercontent.com/ontop/ontop-examples/master/university/slides-blois.pdf>`_. Erasmus Mundus Master Programme IT4BI, April 22, 2016. Blois, France.
+  * `Accès aux données suivant le principe OBDA avec Ontop <https://www.slideshare.net/UMR7324/benjamin-cogrel-accs-aux-donnes-un-niveau-conceptuel-avec-ontop>`_. `Journées
+    «Ontologies en Sciences Humaines et Sociales» <http://masa.hypotheses.org/197>`_, November 9, 2016. Tours, France.
+  * `Interroger efficacement des bases de données relationnelles avec SPARQL et Ontop <http://semweb.pro/file/510485/raw>`_. `SemWeb.Pro <http://semweb.pro/blogentry/510682>`_, 5 November, 2015. Paris, France.
+
+.. _Ontop: http://ontop.inf.unibz.it
