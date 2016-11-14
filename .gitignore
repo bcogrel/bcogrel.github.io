@@ -1,0 +1,5 @@
+Makefile
+*.py
+*.pyc
+*.sh
+output/
