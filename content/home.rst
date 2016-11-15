@@ -9,7 +9,7 @@ Data <http://www.inf.unibz.it/krdb/>`_, Faculty of Computer Science, `Free Unive
 
 My research focuses on Ontology-Based Data Access (OBDA) and related topics
 such as query optimization and integration of non-relational data sources. 
-I am part of team that develops the OBDA system Ontop_. 
+I am part of the team that develops the OBDA system Ontop_. 
 
 Recent publications
 -------------------
@@ -28,6 +28,6 @@ Recent talks
   * `OBDA with Ontop <http://raw.githubusercontent.com/ontop/ontop-examples/master/university/slides-blois.pdf>`_. Erasmus Mundus Master Programme IT4BI, April 22, 2016. Blois, France.
   * `Accès aux données suivant le principe OBDA avec Ontop <https://www.slideshare.net/UMR7324/benjamin-cogrel-accs-aux-donnes-un-niveau-conceptuel-avec-ontop>`_. `Journées
     «Ontologies en Sciences Humaines et Sociales» <http://masa.hypotheses.org/197>`_, November 9, 2016. Tours, France.
-  * `Interroger efficacement des bases de données relationnelles avec SPARQL et Ontop <http://semweb.pro/file/510485/raw>`_. `SemWeb.Pro <http://semweb.pro/blogentry/510682>`_, 5 November, 2015. Paris, France.
+  * `Interroger efficacement des bases de données relationnelles avec SPARQL et Ontop <http://semweb.pro/file/510485/raw>`_. `SemWeb.Pro <http://semweb.pro/blogentry/510682>`_, November 5, 2015. Paris, France.
 
 .. _Ontop: http://ontop.inf.unibz.it
