@@ -15,7 +15,6 @@ Recent publications
 -------------------
  * `Ontop: Answering SPARQL Queries over Relational Databases <http://www.semantic-web-journal.net/content/ontop-answering-sparql-queries-over-relational-databases-1>`_. Diego Calvanese, Benjamin Cogrel, Sarah Komla-Ebri, Roman Kontchakov, Davide Lanti, Martin Rezk, Mariano Rodriguez-Muro, and Guohui Xiao. Semantic Web Journal, 2016. (SWJ 2016 Outstanding Paper Award)
  * `OBDA Beyond Relational DBs: A Study for MongoDB <http://ceur-ws.org/Vol-1577/paper_40.pdf>`_. Elena Botoeva, Diego Calvanese, Benjamin Cogrel, Martin Rezk, Guohui Xiao. Description Logics, 2016.
- * `A Formal Presentation of MongoDB (Extended Version) <https://arxiv.org/pdf/1603.09291>`_. Elena Botoeva, Diego Calvanese, Benjamin Cogrel, Martin Rezk, Guohui Xiao. CoRR abs/1603.09291, 2016. 
 
 `DBLP <http://dblp.uni-trier.de/pers/hd/c/Cogrel:Benjamin>`_
 
