@@ -1,7 +1,7 @@
 About me
 ========
 
-:date: 11-2016
+:date: 03-2017
 :save_as: index.html
 
 Postdoc at the `KRDB Research Centre for Knowledge and
@@ -13,7 +13,7 @@ I am part of the team that develops the OBDA system Ontop_.
 
 Recent publications
 -------------------
- * `Ontop: Answering SPARQL Queries over Relational Databases <http://www.semantic-web-journal.net/content/ontop-answering-sparql-queries-over-relational-databases-1>`_. Diego Calvanese, Benjamin Cogrel, Sarah Komla-Ebri, Roman Kontchakov, Davide Lanti, Martin Rezk, Mariano Rodriguez-Muro, and Guohui Xiao. Semantic Web Journal, 2016. (SWJ 2016 Outstanding Paper Award)
+ * `Ontop: Answering SPARQL Queries over Relational Databases <http://www.semantic-web-journal.net/content/ontop-answering-sparql-queries-over-relational-databases-1>`_. Diego Calvanese, Benjamin Cogrel, Sarah Komla-Ebri, Roman Kontchakov, Davide Lanti, Martin Rezk, Mariano Rodriguez-Muro, and Guohui Xiao. Semantic Web Journal, 2017. (SWJ 2016 Outstanding Paper Award)
  * `OBDA Beyond Relational DBs: A Study for MongoDB <http://ceur-ws.org/Vol-1577/paper_40.pdf>`_. Elena Botoeva, Diego Calvanese, Benjamin Cogrel, Martin Rezk, Guohui Xiao. Description Logics, 2016.
 
 `DBLP <http://dblp.uni-trier.de/pers/hd/c/Cogrel:Benjamin>`_
@@ -21,6 +21,7 @@ Recent publications
 
 Recent talks
 ------------
+  * `Mapping Management and Expressive Ontologies in Ontology-Based Data Access <http://ontop.inf.unibz.it/ekaw-2016-tutorial/>`_. Diego Calvanese, Benjamin Cogrel and Guohui Xiao. EKAW 2016 full-day Tutorial, November 19, 2016. Bologna, Italy.
   * `Ontology-Based Data Access with Ontop <http://esslli2016.unibz.it/wp-content/uploads/2015/10/ontop-esslli.pdf>`_. Last lecture of the course 
     `Query Answering with Description Logic Ontologies <http://esslli2016.unibz.it/?page_id=395>`_, ESSLLI summer school, August 26, 2016. Bolzano, Italy.
   * Introduction to the Ontop framework. `Geospatial, Mathematical and Linked Big Data Workshop <http://iqmulus.eu/events/workshop-geospatial-mathematical-and-linked-big-data>`_, European Data Forum, June 28, 2016. Eindhoven, The Netherlands.
