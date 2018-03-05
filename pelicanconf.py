@@ -46,3 +46,4 @@ DEFAULT_PAGINATION = False
 RELATIVE_URLS = True
 
 THEME = "/home/benji/envs/pelican-2.7/deps/crowsfoot/"
+#THEME = "/benjamin/envs/pelican/deps/crowsfoot/"
