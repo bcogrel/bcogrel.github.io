@@ -1,7 +1,7 @@
 About me
 ========
 
-:date: 03-2018
+:date: 05-2018
 :save_as: index.html
 
 Postdoc at the `KRDB Research Centre for Knowledge and
@@ -13,6 +13,7 @@ I am part of the team that develops the OBDA system Ontop_.
 
 Recent publications
 -------------------
+ * Efficient Handling of SPARQL OPTIONAL for OBDA. Guohui Xiao, Roman Kontchakov, Benjamin Cogrel, Diego Calvanese, and Elena Botoeva. International Semantic Web Conference (Research Track), 2018.
  * `Expressivity and Complexity of MongoDB Queries <http://drops.dagstuhl.de/opus/frontdoor.php?source_opus=8607>`_. Elena Botoeva, Diego Calvanese, Benjamin Cogrel, and Guohui Xiao. International Conference on Database Theory, 2018.
  * `Ontop: Answering SPARQL Queries over Relational Databases <http://www.semantic-web-journal.net/content/ontop-answering-sparql-queries-over-relational-databases-1>`_. Diego Calvanese, Benjamin Cogrel, Sarah Komla-Ebri, Roman Kontchakov, Davide Lanti, Martin Rezk, Mariano Rodriguez-Muro, and Guohui Xiao. Semantic Web Journal, 2017. (SWJ 2016 Outstanding Paper Award)
  * `OBDA Beyond Relational DBs: A Study for MongoDB <http://ceur-ws.org/Vol-1577/paper_40.pdf>`_. Elena Botoeva, Diego Calvanese, Benjamin Cogrel, Martin Rezk, Guohui Xiao. Description Logics, 2016.
