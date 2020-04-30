@@ -29,7 +29,7 @@ Some talks
   * `Accessing Tourism data as a Virtual Knowledge Graph </pdfs/odh-tourism.pdf>`_. Software Developers' Thursday, February 6, 2020. Bolzano, Italy.
   * `Virtual Knowledge Graphs <https://www.sfscon.it/talks/virtual-knowledge-graphs/>`_. SFScon, November 16, 2018. Bolzano, Italy.
   * `Interrogation efficace de bases de données relationnelles avec SPARQL et Ontop <https://blog.bcgl.fr/fr/2017/09/atelier-jdev17-ontop/>`_. Tutorial (with a `screencast <https://amupod.univ-amu.fr/video/0717-jdev2017-t2_a06-interrogation-efficace-de-bases-de-donnees-relationnelles-avec-sparql-et-ontop/>`_). `Journées du Développement Logiciel <http://devlog.cnrs.fr/jdev2017/t2>`_, July 6, 2017. Marseille, France.
-  * `Mapping Management and Expressive Ontologies in Ontology-Based Data Access <http://ontop.inf.unibz.it/ekaw-2016-tutorial/>`_. Diego Calvanese, Benjamin Cogrel and Guohui Xiao. EKAW 2016 full-day Tutorial, November 19, 2016. Bologna, Italy.
+  * `Mapping Management and Expressive Ontologies in Ontology-Based Data Access <https://github.com/ontop/ontop-examples/tree/master/ekaw-tutorial-2016/>`_. Diego Calvanese, Benjamin Cogrel and Guohui Xiao. EKAW 2016 full-day Tutorial, November 19, 2016. Bologna, Italy.
   * `Ontology-Based Data Access with Ontop <http://esslli2016.unibz.it/wp-content/uploads/2015/10/ontop-esslli.pdf>`_. Last lecture of the course 
     `Query Answering with Description Logic Ontologies <http://esslli2016.unibz.it/?page_id=395>`_, ESSLLI summer school, August 26, 2016. Bolzano, Italy.
   * Introduction to the Ontop framework. `Geospatial, Mathematical and Linked Big Data Workshop <http://iqmulus.eu/events/workshop-geospatial-mathematical-and-linked-big-data>`_, European Data Forum, June 28, 2016. Eindhoven, The Netherlands.
