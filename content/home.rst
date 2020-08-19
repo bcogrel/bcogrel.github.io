@@ -1,10 +1,10 @@
 About me
 ========
 
-:date: 04-2020
+:date: 08-2020
 :save_as: index.html
 
-CTO and co-founder of `Ontopic s.r.l. <https://ontopic.biz>`_, a spin-off from the `Free University of Bozen-Bolzano <http://unibz.it>`_, Italy.
+CTO and co-founder of `Ontopic s.r.l. <https://ontopic.biz>`_, a spin-off from the `Free University of Bozen-Bolzano <https://www.unibz.it/>`_, Italy.
 Prior to that, I was a Postdoc at the `KRDB Research Centre for Knowledge and
 Data <http://www.inf.unibz.it/krdb/>`_ of this university.
 
@@ -14,6 +14,7 @@ I am part of the community that develops the VKG system Ontop_.
 
 Some publications
 -------------------
+ * `The Virtual Knowledge Graph System Ontop </pdfs/ontop-iswc20.pdf>`_. Guohui Xiao, Davide Lanti, Roman Kontchakov, Sarah Komla-Ebri, Elem Güzel-Kalayci, Linfang Ding, Julien Corman, Benjamin Cogrel, Diego Calvanese, and Elena Botoeva. International Semantic Web Conference (Resource Track), 2020.
  * `Virtual Knowledge Graphs: An Overview of Systems and Use Cases <https://www.mitpressjournals.org/doi/full/10.1162/dint_a_00011>`_. Guohui Xiao, Linfang Ding, Benjamin Cogrel, Diego Calvanese. Data Intelligence, 2019.
  * `Ontology-based Data Access - Beyond relational sources <https://www.ghxiao.org/publications/2019-ia-nosql.pdf>`_. Elena Botoeva, Diego Calvanese, Benjamin Cogrel, Julien Corman, Guohui Xiao. Intelligenza Artificiale, 2019.
  * `Efficient Handling of SPARQL OPTIONAL for OBDA <https://link.springer.com/chapter/10.1007/978-3-030-00671-6_21>`_. Guohui Xiao, Roman Kontchakov, Benjamin Cogrel, Diego Calvanese, and Elena Botoeva. International Semantic Web Conference (Research Track), 2018. (`slides <https://github.com/bcogrel/bcogrel.github.io/raw/master/pdf/optional-iswc18-slides.pdf>`_, `extended version <https://arxiv.org/abs/1806.05918>`_, `video <http://videolectures.net/iswc2018_cogrel_efficient_sparql_obda/>`_)
