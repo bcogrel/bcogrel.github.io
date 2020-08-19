@@ -3,3 +3,5 @@ Makefile
 *.pyc
 *.sh
 output/
+.idea
+venv
