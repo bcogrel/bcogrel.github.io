@@ -4,7 +4,7 @@ About me
 :date: 08-2020
 :save_as: index.html
 
-CTO and co-founder of `Ontopic s.r.l. <https://ontopic.biz>`_, a spin-off from the `Free University of Bozen-Bolzano <https://www.unibz.it/>`_, Italy.
+CTO and co-founder of `Ontopic s.r.l. <https://ontopic.ai>`_, a spin-off from the `Free University of Bozen-Bolzano <https://www.unibz.it/>`_, Italy.
 Prior to that, I was a Postdoc at the `KRDB Research Centre for Knowledge and
 Data <http://www.inf.unibz.it/krdb/>`_ of this university.
 
